@@ -16,9 +16,9 @@ descrition: Mp3 HQ Audio 9 Lagu Iwan Fals dari Album 1910
 
 <audio controls><source type="audio/mpeg" src="/1910/Iwan%20Fals%20-%20Ibu"/></audio>
 
-### 4. Mimpi yang Terbeli
+### 4. Mimpi Yang Terbeli
 
-<audio controls><source type="audio/mpeg" src="/1910/Iwan%20Fals%20-%20Mimpi%20yang%20Terbeli"/></audio>
+<audio controls><source type="audio/mpeg" src="/1910/Iwan%20Fals%20-%20Mimpi%20Yang%20Terbeli"/></audio>
 
 ### 5. Balada Orang-Orang Pedalaman
 
