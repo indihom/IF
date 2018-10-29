@@ -1,8 +1,10 @@
 ---
 title: "Album 1910 (256 kbps CBR)"
-description: "Mp3 HQ Audio 9 Lagu Iwan Fals dari Album 1910"
+description: "Mp3 HQ Audio 10 kurang 1 (jadi hanya 9) Lagu Iwan Fals dari Album 1910"
 ---
 ## {{ page.title }}
+
+> {{ page.description }}
 
 ![Iwan Fals Album 1910](AlbumArt-1910.jpg)
 
