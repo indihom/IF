@@ -6,8 +6,11 @@ Iwan Fals yang bernama lahir **Virgiawan Listanto** adalah seorang Penyanyi bera
 ### Bio
 
 Lahir: 3 September 1961 (usia 57 tahun), Jakarta
+
 Jenis musik: Balada, Pop, Rock, Country
+
 Orang Tua: Lies Suudijah, Harsoyo
+
 Anak: Galang Rambu Anarki, Raya Rambu Robbani, Annisa Cikal Rambu Basae
 
 ### Galery
