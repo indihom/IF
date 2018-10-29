@@ -16,3 +16,7 @@ Anak: Galang Rambu Anarki, Raya Rambu Robbani, Annisa Cikal Rambu Basae
 ### Galery
 
 ![iwan fals](/1910/IwanFals-1980-an.jpg){: style="display:block;width:100%;margin:0 auto"}
+
+### Album
+
+- 1910, Rilis 1988. [taut](/1910/)
