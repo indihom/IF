@@ -14,13 +14,13 @@ description: "Mp3 HQ Audio 10 kurang 1 (jadi hanya 9) Lagu Iwan Fals dari Album 
 
 ### 2. Ada Lagi yang Mati
 
-<audio controls><source type="audio/mpeg" src="/1910/Iwan%20Fals%20-%20Ada%20Lagi%20yang%20Mati"/></audio>
+<audio controls><source type="audio/mpeg" src="/1910/Iwan%20Fals%20-%20Ada%20Lagi%20Yang%20Mati"/></audio>
 
 ### 3. Ibu
 
 <audio controls><source type="audio/mpeg" src="/1910/Iwan%20Fals%20-%20Ibu"/></audio>
 
-### 4. Mimpi Yang Terbeli
+### 4. Mimpi yang Terbeli
 
 <audio controls><source type="audio/mpeg" src="/1910/Iwan%20Fals%20-%20Mimpi%20Yang%20Terbeli"/></audio>
 
